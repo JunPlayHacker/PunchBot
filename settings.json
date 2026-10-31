@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PunchBot",
+    "username": "AFK-BOT",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "PunchSMP.aternos.me",
-    "port": 25955,
+    "ip": "ThumpSMP.playserver.pro",
+    "port": 23687,
     "version": "",
     "try-creative": false
   },
